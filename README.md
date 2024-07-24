@@ -16,6 +16,7 @@ Proyek ini adalah kerangka kerja otomasi API menggunakan Java dan JUnit. Kerangk
    ```bash
    git clone https://github.com/Devialijay/tugas18y.git
    cd <tugas18y>
+   
 
-   ##Screnshoot
+##Screnshoot
    ![image](https://github.com/user-attachments/assets/45c2891a-0de3-48b3-8997-955af7b2350c)
